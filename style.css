@@ -1,0 +1,28 @@
+*, *:before, *:after { 
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial,sans-serif;
+  }
+
+  header{
+    display: inline-flex;
+    width: 100%;
+    line-height: normal;
+    
+
+  }
+.logo{
+    width: 65px;
+    margin: .8em;
+  }
+
+.titulo-header{
+    margin: .8em;
+    background-image: linear-gradient(to right, #ff08d6, #1c51e4c9);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    /* Adicionado: */
+    -webkit-text-fill-color: transparent;
+}
