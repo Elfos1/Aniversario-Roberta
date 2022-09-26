@@ -14,9 +14,14 @@
   }
 .logo{
     width: 65px;
+    height: 70px;
     margin: .8em;
   }
 
+
+  .hr{
+    opacity: 0.8;
+  }
 .titulo-header{
     margin: .8em;
     background-image: linear-gradient(to right, #ff08d6, #1c51e4c9);
